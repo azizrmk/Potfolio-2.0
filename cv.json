@@ -1,21 +1,21 @@
 {
   "analyticsCode": "",
   "basics": {
-    "name": "Anmol Singh",
+    "name": "Abd. Aziz Rumakefing",
     "label": "Software Developer",
     "animated_main_label": "developer",
-    "animated_secondary_initial_label": "software",
-    "animated_secondary_final_label": "fullstack",
-    "image": "/pfp.jpg",
+    "animated_secondary_initial_label": "Software",
+    "animated_secondary_final_label": "Fullstack",
+    "image": "/WhatsApp Image 2026-01-05 at 07.31.46.jpeg",
     "email": "anmolsingh51200@gmail.com",
     "url": "https://anmol.pro",
     "summary": "Full Stack developer with experience building and deploying production-ready web apps in freelance teams. Delivered two client websites and worked closely with teams to create scalable, maintainable solutions.",
     "theme": "platinum",
     "location": {
-      "address": "Panipat",
-      "city": "Haryana",
-      "countryCode": "IN",
-      "region": "India"
+      "address": "Teluk Ambon",
+      "city": "Ambon",
+      "countryCode": "ID",
+      "region": "Indonesia"
     },
     "profiles": [
       {
@@ -30,7 +30,7 @@
         "icon": "mdi:github",
         "color": "#929AAB",
         "username": "Anmol-TheDev",
-        "url": "https://github.com/Anmol-TheDev"
+        "url": "https://github.com/azizrmk"
       },
       {
         "network": "Email",
