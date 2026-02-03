@@ -9,7 +9,7 @@
     "image": "/WhatsApp Image 2026-01-05 at 07.31.46.jpeg",
     "email": "anmolsingh51200@gmail.com",
     "url": "https://anmol.pro",
-    "summary": "Full Stack developer with experience building and deploying production-ready web apps in freelance teams. Delivered two client websites and worked closely with teams to create scalable, maintainable solutions.",
+    "summary": "Saya adalah mahasiswa Ilmu Komputer dengan minat pada pengembangan aplikasi, kecerdasan buatan, dan pengolahan data. Berpengalaman dalam membangun aplikasi berbasis web dan mobile, serta terbiasa menerapkan solusi teknologi untuk permasalahan nyata di bidang akademik dan informasi.",
     "theme": "platinum",
     "location": {
       "address": "Teluk Ambon",
@@ -19,49 +19,49 @@
     },
     "profiles": [
       {
-        "network": "X / Twitter",
-        "icon": "ri:twitter-fill",
+        "network": "Instagram",
+        "icon": "ri:instagram-fill",
         "color": "#1DA1F2",
-        "username": "@anmolthedev",
-        "url": "https://x.com/anmolthedev"
+        "username": "@rmk46_",
+        "url": "https://www.instagram.com/rmk46_/"
       },
       {
         "network": "GitHub",
         "icon": "mdi:github",
         "color": "#929AAB",
-        "username": "Anmol-TheDev",
+        "username": "azizrmk",
         "url": "https://github.com/azizrmk"
       },
       {
         "network": "Email",
         "icon": "ri:mail-fill",
         "color": "#D44638",
-        "username": "anmolsingh",
-        "url": "mailto:anmolsingh51200@gmail.com"
+        "username": "abdul aziz",
+        "url": "abdulazizrumakeffing01@gmail.com"
       },
       {
-        "network": "GitHub Stars",
-        "icon": "ri:star-line",
+        "network": "Whatsapp",
+        "icon": "ri:whatsapp-line",
         "color": "#FBBC05",
-        "username": "Star on GitHub",
-        "url": "https://github.com/Anmol-TheDev/potfolio2.0"
+        "username": "aziz",
+        "url": "082279407538"
       }
     ]
   },
   "work": [
     {
-      "name": "Advika Innovate",
+      "name": "Abd. Aziz Rumakefing",
       "position": "Frontend Developer",
       "location_type": "Remote",
       "location": "IN",
       "url": "https://advikainnovate.com/",
       "startDate": "2025-07-01",
       "endDate": null,
-      "summary": "Contributing to a centralized ecommerce platform to manage multiple ecommerce stores from a single interface, including order and inventory management.",
+      "summary": "Pada Tahun 2025-2026 saya magang pada -Layanan Data Dan Sistem Informasi-(LDSI) untuk Menambahkan wawasan dalam dunia perkerjaan",
       "responsibilities": [
-        "Developing and maintaining the frontend of a centralized ecommerce platform.",
-        "Implementing features for order management, inventory control, and other ecommerce functionalities.",
-        "Collaborating with the team to create a scalable and user-friendly platform."
+        "Mengembangkan dan memelihara antarmuka pengguna (frontend) dari platform Jaringan Dokumentasi Dan Informasi (LDI) menggunakan React dan Material UI. ",
+        "Mengimplementasikan fitur untuk manajemen Dokumen, relasi Antar dokumen, dan fungsi dokumen lainnya.",
+        "Berkolaborasi dengan tim untuk menciptakan platform yang skalabel dan ramah pengguna."
       ],
       "skills": {
         "React": "simple-icons:react",
@@ -76,22 +76,20 @@
       }
     },
     {
-      "name": "PixelSaffron",
-      "position": "Full-Stack Developer",
+      "name": "Program Studi Ilmu Komputer",
+      "position": "Mahasiswa",
       "location_type": "Remote",
       "location": "IN",
-      "url": "https://pixelsaffron.in/",
-      "startDate": "2024-10-03",
-      "endDate": "2025-06-30",
-      "summary": "Led front-end development for a full-stack eCommerce platform built for a Mumbai-based clothing brand. Implemented core features like order management, secure payment integration, and responsive UI for seamless user experience.",
+      "url": "https://ilkom.fst.unpatti.ac.id/",
+      "startDate": "2022-10-03",
+      "endDate": "2026-06-30",
+      "summary": "Ilmu Komputer Universitas Pattimura (Unpatti) merupakan program studi yang bertujuan menghasilkan lulusan yang unggul dalam penguasaan teori dan praktik di bidang komputasi, pemrograman, dan teknologi informasi.",
 
       "responsibilities": [
-        "Built and maintained both front-end and back-end components of a production-ready eCommerce web app using modern web technologies.",
-        "Focused on building scalable, responsive, and maintainable front-end features, ensuring high performance and usability.",
-        "Integrated payment gateways and developed order management features to support real-time order processing.",
-        "Collaborated with clients and team members to align technical solutions with business needs.",
-        "Ensured clean, modular code and implemented best practices for performance optimization and maintainability.",
-        "Developed and connected RESTful APIs to handle key business logic and data flow between client and server."
+        "Menghasilkan lulusan S1 di bidang Ilmu Komputer yang kompeten, mampu beradaptasi dengan kebutuhan pasar kerja, berorientasi pada pengembangan teknologi informasi yang mendukung wilayah maritim dan pulau-pulau, serta mampu melanjutkan pendidikan ke jenjang yang lebih tinggi.",
+        "Menghasilkan produk penelitian dan pengembangan keilmuan bidang Ilmu Komputer berbasis laut pulau.",
+        "Mengimplementasikan IPTEK dalam bentuk pengabdian kepada masyarakat untuk memberikan solusi bagi permasalahan dalam bidang Ilmu Komputer guna meningkatkan kesejahteraan masyarakat.",
+        "Menjalin kolaborasi yang efektif antara berbagai lembaga pemerintah dan non-pemerintah, baik di tingkat nasional maupun internasional, guna mendorong pengembangan dan penerapan teknologi informasi secara luas, sehingga memberikan kontribusi yang signifikan dalam meningkatkan efisiensi, inovasi, dan daya saing sektor-sektor tersebut di kancah global."
       ],
 
       "skills": {
